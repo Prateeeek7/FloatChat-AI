@@ -2,6 +2,8 @@
 
 An intelligent conversational system for exploring and analyzing ARGO float oceanographic data using natural language queries. **Optimized for 16GB M4 MacBook with 150GB storage.**
 
+> 🏆 **Built for Smart India Hackathon 2025 - Qualified till Level 2**
+
 ## ✨ Features
 
 - **🧠 AI-Powered Queries**: Natural language to SQL translation using RAG (Retrieval-Augmented Generation)
